@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619064940 source:c:\users\nikhil pothu\desktop\l&t stepin\exampleembd\fuse.c
+	<avr/io.h>
+
+1619493447 source:c:\users\nikhil pothu\desktop\l&t stepin\exampleembd\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+
