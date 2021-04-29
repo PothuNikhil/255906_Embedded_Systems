@@ -7,7 +7,7 @@
 
 |Simulation|
 |:--:|
-|![simulation](C:\Users\Nikhil Pothu\Desktop\255906_Embedded_Systems\simulation\simulation.PNG)|
+|![simulation](https://github.com/PothuNikhil/255906_Embedded_Systems/blob/main/simulation/simulation.PNG)|
 #### CI and Code Quality
 
 |Build|Cppcheck|Codacy
