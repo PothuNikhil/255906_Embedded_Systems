@@ -20,12 +20,13 @@
  * @brief Button on
  * 
  */
-#define BUTTON_ON !(PINB&(1<<PB7))
+#define BUTTON_ON !(PIND&(1<<PD2))
+
 /**
  * @brief Heater on
  * 
  */
-#define HEATER_ON !(PINB&(1<<PB6))
+#define HEATER_ON !(PIND&(1<<PD3))
 
 /**
  * @brief Defining ports
